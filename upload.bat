@@ -1,4 +1,4 @@
 git status
 git add -A .
 git commit -m "oke"
-git push
+git push origin master
